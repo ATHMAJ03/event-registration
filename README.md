@@ -21,11 +21,9 @@ Import images as needed
 Create pages based on your need and link them
 
 ### Step 6:
-
 Validate the HTML and CSS code.
 
 ### Step 6:
-
 Publish the website in the given URL.
 
 ## DESIGN:
@@ -33,6 +31,5 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 ![event](https://user-images.githubusercontent.com/118753139/215120319-1bf9817f-d8e0-4784-bdf4-cb29c9e73a6b.png)
-
 ## Result:
 The program to design, develop and deploy a web application for event registration is completed successfully.
